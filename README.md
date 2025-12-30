@@ -59,6 +59,7 @@ En cualquiera de las carpetas de proyecto:
 ```bash
 npm install
 npm start
+```
 
 ## 📫 Contacto
 
