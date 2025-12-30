@@ -1,55 +1,66 @@
-# 📁 Portafolio de Proyectos – Gabriela Carmona
+# 💼 Portafolio de Proyectos – Gabriela Carmona
 
 Hola 👋  
-Soy desarrolladora frontend con enfoque en **React y TypeScript**.  
-Este repositorio reúne proyectos prácticos que demuestran el uso de hooks,
-manejo de estado, arquitectura de componentes, buenas prácticas y mucho amor
-por mi gtrabajo.
+Soy **desarrolladora Frontend** con enfoque en **React y TypeScript**.  
+En este repositorio encontrarás proyectos prácticos que demuestran mi forma de
+estructurar aplicaciones, manejar estado y aplicar buenas prácticas.
+
+El objetivo de este portafolio es mostrar **código claro, escalable y bien organizado**.
 
 ---
 
-## 🧩 Proyectos
+## 🧩 Proyectos Destacados
 
 ### 🔹 TypeScript Hooks
-📂 `proyecto-TypeScriptHooks/mi-app`
+📂 Carpeta: `typescript-hooks`
 
-Proyecto enfocado en el uso de hooks personalizados y nativos en React.
+Proyecto enfocado en el uso de **hooks nativos y personalizados** en React.
 
-**Tecnologías:**
+**Tecnologías**
 - React
 - TypeScript
 - Hooks (`useState`, `useEffect`, hooks personalizados)
 
-**Conceptos demostrados:**
-- Manejo de formularios
+**Qué demuestra**
+- Separación de lógica y UI
 - Componentes reutilizables
+- Manejo de formularios
 - Tipado fuerte con TypeScript
+
+👉 Ideal para ver mi manejo de hooks y componentes.
 
 ---
 
 ### 🔹 ToDo List con TypeScript
-📂 `proyecto-TypeScriptToDoList/todo-app`
+📂 Carpeta: `typescript-todolist`
 
-Aplicación de lista de tareas con arquitectura basada en contexto y reducer.
+Aplicación de lista de tareas con una arquitectura basada en **Context API y Reducer**.
 
-**Tecnologías:**
+**Tecnologías**
 - React
 - TypeScript
 - Context API
 - Reducer pattern
 
-**Conceptos demostrados:**
-- Estado global
-- Reducers
+**Qué demuestra**
+- Manejo de estado global
 - Arquitectura escalable
-- Tipos e interfaces
+- Uso de reducers
+- Organización de carpetas por dominio
+
+👉 Ideal para ver cómo estructuro aplicaciones medianas.
 
 ---
 
 ## 🚀 Cómo ejecutar los proyectos
 
-En cualquier proyecto:
+En cualquiera de las carpetas de proyecto:
 
 ```bash
 npm install
 npm start
+
+## 📫 Contacto
+
+- **GitHub:** https://github.com/GabrielaCarmona
+- **LinkedIn:** https://www.linkedin.com/in/ngabriela-carmona
